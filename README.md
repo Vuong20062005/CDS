@@ -109,5 +109,5 @@ TravelChatbot/
 ---
 
 ## © Bản quyền
-© 2025 **Vương Thị Nhung CNTT - 1704** - Dự án Travel Chatbot  
-📧 Email liên hệ: [vuongthinhung2005@gmail.com](mailto:vuongthinhung2005@gmail.com)
+© 2025 **Đàm Minh Vương CNTT - 1704** - Dự án Travel Chatbot  
+📧 Email liên hệ: [damvuong2k5@gmail.com](mailto:damvuong2k5@gmail.com)
